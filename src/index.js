@@ -6,7 +6,7 @@ import "modern-normalize";
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename="/react-homework-5-react-router">
+  <BrowserRouter basename="/movie-search-react">
     {/* <React.StrictMode> */}
     <App />
     {/* </React.StrictMode> */}
