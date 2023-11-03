@@ -1,4 +1,4 @@
-# Image finder App. 
-It's written on Vanilla Java Script (add infinite-scroll)
-and use Pixabay API. 
+# App for search movies. 
+It's written on React
+and use Themoviedb API. 
 
